@@ -6,7 +6,7 @@
 - 🕶 Active Secret Clearence
 - 🎓 I graduated from University of North Alabama with a BBA with a focus in Computer Information Systems.
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... You can reach me by Linkedin: https://www.linkedin.com/in/joshua-powell-6a47a5215/  or Emai: josh1047.jp@gmail.com [primary]
+- 📫 How to reach me ... You can reach me by Linkedin: https://www.linkedin.com/in/joshua-powell-6a47a5215/  or Email: josh1047.jp@gmail.com [primary]
 
 <!---
 josh-powell4/josh-powell4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
